@@ -1,0 +1,18 @@
+
+
+#box{
+    background-color: blue;
+    color:azure;
+}
+
+.heading{
+    color: red;
+}
+
+h1, h2, h3{
+    background-color: aqua;
+}
+
+button{
+    background-color: green;
+}
