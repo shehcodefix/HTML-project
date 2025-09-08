@@ -1,18 +1,79 @@
 
 
-#box{
+/* #box{
     background-color: blue;
     color:azure;
-}
+} */
 
-.heading{
+/* .heading{
     color: red;
-}
+} */
 
-h1, h2, h3{
+/* h1, h2, h3{
     background-color: aqua;
 }
 
 button{
     background-color: green;
+}
+
+p{
+    text-align:end; */
+    /* text-decoration: line-through; */
+/* } */
+/* start= the place where we start writing from in the language, for eg in english we write from right so start =right and end = left 
+as for urdu, it is start=left and end = right */
+
+/* h1{
+    text-align: center;
+    text-decoration: blueviolet wavy underline;
+    font-weight: normal;
+} */
+
+/* h2{
+    text-decoration: rgb(133, 236, 37) dotted;
+     
+}
+
+h3{
+    font-weight:lighter ;
+    font-size: 96px;
+} */
+
+/* a link in html always makes it underlined,thus use this::after */
+
+/* a{
+    text-decoration: none;
+}
+
+p{
+    font-family:inherit;
+    line-height:23px;
+    text-transform:capitalize;
+} */
+ 
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+*{
+    font-family: 'Times New Roman';
+}
+
+div{
+    /* font-size: 25px; */
+    height: 50px;
+    width:50px;
+    background-color: aqua;
+}
+
+/* #inner{
+    font-size: 10px;
+} */
+
+p{
+    width:800px;
+    background-color: rgb(40, 101, 84);
+    color: rgb(185, 255, 232);
 }
